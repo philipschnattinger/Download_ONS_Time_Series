@@ -1,6 +1,6 @@
 ons_download <- function(url, frequency) { 
   # Function written by Philip Schnattinger
-  # Url enter ONS time series in JSON form
+  # Url enter ONS time series
   # Enter frequency: Acceptable inputs: "months", "quarters", "years"
   # Only works for existing frequencies
   # Example:
